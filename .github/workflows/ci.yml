@@ -28,4 +28,4 @@ jobs:
           push: true
           tags: |
             jerrioh/${{ github.repository_owner }}/github-action-demo:latest
-            jerrioh/${{ github.repository_owner }}/github-action-demo:${{ env.RELEASE_VERSION }
+            jerrioh/${{ github.repository_owner }}/github-action-demo:${{ env.RELEASE_VERSION }}
